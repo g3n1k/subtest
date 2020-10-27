@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 gw ganteng banget
 aji juga
+=======
+gw ganteng banget banget banget
+>>>>>>> 49902edae92f34e641fc6dfbe777d575698e29ca
